@@ -1,0 +1,4 @@
+- [x] sei utilizar o git e github
+- [x] crio branches quando faço alterações no código para não arruiná-lo
+- [x] Compreendo como a lógica se aplica na programação
+- [x] Tenho aprendido com certa facilidade como usar o Javascript e HTML
